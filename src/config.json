@@ -1,0 +1,16 @@
+{
+    "prefix": "!",
+    "embedColor": [
+        0,
+        146,
+        226
+    ],
+    "clientName": "Aqua Solutions",
+    "guildId": "739810780735602758",
+    "memberChannel": "775786866313920523",
+    "ticketRole": "881823094723977246",
+    "moderatorRole": "785834336469385216",
+    "logChannel": "870654022837739591",
+    "embedFooter": "© 2021 - Aqua Solutions",
+    "muteRole": "881945917366878259"
+}
