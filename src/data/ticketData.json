@@ -1,0 +1,10 @@
+{
+    "tickets": [
+        {
+            "channelId": "0",
+            "ownerId": "0",
+            "messageId": "0",
+            "confirmMessageId": "0"
+        }
+    ]
+}
